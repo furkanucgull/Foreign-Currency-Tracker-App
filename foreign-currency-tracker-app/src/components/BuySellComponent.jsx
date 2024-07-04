@@ -8,21 +8,21 @@ function BuySellComponent() {
           </div>
           <div className=" bbg-neutral-100 w-24 h-14 ml-4  ">
             <div className="flex justify-center items-center text-center mt-1  h-20 bg-gray-200 border-b-2 border-gray-300">
-              <h2 className="font-bold text-2xl text-nowrap ">0.75</h2>
+              <h2 className="font-bold text-xl text-nowrap ">0.75</h2>
             </div>
 
             <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-100 border-b-2 border-gray-300">
-              <h2 className="font-bold text-2xl text-nowrap ">0.75</h2>
+              <h2 className="font-bold text-xl text-nowrap ">0.75</h2>
             </div>
 
-            <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-200 border-b-2 border-gray-300">
-              <h2 className="font-bold text-2xl text-nowrap ">0.75</h2>
+            <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-100 border-b-2 border-gray-300">
+              <h2 className="font-bold text-xl text-nowrap ">0.75</h2>
             </div>
             <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-200 border-b-2 border-gray-300">
-              <h2 className="font-bold text-2xl text-nowrap ">0.75</h2>
+              <h2 className="font-bold text-xl text-nowrap ">0.75</h2>
             </div>
-            <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-200 border-b-2 border-gray-300">
-              <h2 className="font-bold text-2xl text-nowrap ">0.75</h2>
+            <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-100 border-b-2 border-gray-100">
+              <h2 className="font-bold text-xl text-nowrap ">0.75</h2>
             </div>
           </div>
         </div>
@@ -33,21 +33,21 @@ function BuySellComponent() {
           </div>
           <div className=" bbg-neutral-100 w-24 h-12 ml-1  ">
             <div className="flex justify-center items-center text-center mt-1  h-20 bg-gray-200 border-b-2 border-gray-300">
-              <h2 className="font-bold text-2xl text-nowrap ">0.75</h2>
+              <h2 className="font-bold text-xl text-nowrap ">0.75</h2>
             </div>
 
             <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-100 border-b-2 border-gray-300">
-              <h2 className="font-bold text-2xl text-nowrap ">0.75</h2>
+              <h2 className="font-bold text-xl text-nowrap ">0.75</h2>
             </div>
 
-            <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-200 border-b-2 border-gray-300">
-              <h2 className="font-bold text-2xl text-nowrap ">0.75</h2>
+            <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-100 border-b-2 border-gray-100">
+              <h2 className="font-bold text-xl text-nowrap ">0.75</h2>
             </div>
             <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-200 border-b-2 border-gray-300">
-              <h2 className="font-bold text-2xl text-nowrap ">0.75</h2>
+              <h2 className="font-bold text-xl text-nowrap ">0.75</h2>
             </div>
-            <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-200 border-b-2 border-gray-300">
-              <h2 className="font-bold text-2xl text-nowrap ">0.75</h2>
+            <div className="flex justify-center items-center text-center  mt-1 h-20 bg-gray-100 border-b-2 border-gray-100">
+              <h2 className="font-bold text-xl text-nowrap ">0.75</h2>
             </div>
           </div>
         </div>
