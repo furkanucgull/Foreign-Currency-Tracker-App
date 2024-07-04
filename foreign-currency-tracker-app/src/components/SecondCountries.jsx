@@ -7,8 +7,10 @@ function SecondCountries() {
   return (
     <>
       <main className="border-2 border-solid border-gray-200">
-        <div className=" bg-neutral-100 w-80 h-14 ">
-          <h2 className=" mx-2 font-serif text-2xl ml-3 mt-3  hover:bg-slate-300">Country</h2>
+        <div className="title-container">
+          <div className=" bg-neutral-100 w-72  h-14  ">
+            <h2 className="  bg-neutral-100 w-32 h-14 font-bold pt-3 ml-4 ">Country</h2>
+          </div>
         </div>
         <section>
           <div className="country1 bg-slate-200 p-4 hover:bg-slate-50 border-b-2  border-gray-300">
@@ -19,7 +21,7 @@ function SecondCountries() {
               </div>
 
               <div className="image ">
-                <img className="w-16 h-11  ml-10" src={russianFlag} alt="" />
+                <img className="w-16 h-11  ml-8" src={russianFlag} alt="" />
               </div>
             </div>
           </div>
@@ -34,7 +36,7 @@ function SecondCountries() {
               </div>
 
               <div className="image ">
-                <img className="w-16 h-11  ml-14" src={swissFlag} alt="" />
+                <img className="w-16 h-11  ml-12" src={swissFlag} alt="" />
               </div>
             </div>
           </div>
@@ -49,7 +51,7 @@ function SecondCountries() {
               </div>
 
               <div className="image ">
-                <img className="w-16 h-11  ml-6" src={chinaFlag} alt="" />
+                <img className="w-16 h-11  ml-4" src={chinaFlag} alt="" />
               </div>
             </div>
           </div>
@@ -64,7 +66,7 @@ function SecondCountries() {
               </div>
 
               <div className="image ">
-                <img className="w-16 h-11  ml-9" src={ukFlag} alt="" />
+                <img className="w-16 h-11  ml-7" src={ukFlag} alt="" />
               </div>
             </div>
           </div>
@@ -79,7 +81,7 @@ function SecondCountries() {
               </div>
 
               <div className="image ">
-                <img className="w-16 h-11  ml-9" src={ausFlag} alt="" />
+                <img className="w-16 h-11  ml-7" src={ausFlag} alt="" />
               </div>
             </div>
           </div>

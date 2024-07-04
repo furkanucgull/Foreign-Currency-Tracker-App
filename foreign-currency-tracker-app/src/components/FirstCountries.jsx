@@ -8,8 +8,10 @@ function FirstCountries() {
   return (
     <>
       <main className="border-2 border-solid border-gray-200">
-        <div className=" bg-neutral-100 w-80 h-14 ">
-          <h2 className=" mx-2 font-serif text-2xl ml-3 mt-3  hover:bg-slate-300">Country</h2>
+        <div className="title-container">
+          <div className=" bg-neutral-100 w-80 h-14  ">
+            <h2 className="  bg-neutral-100 w-32 h-14 font-bold pt-3 ml-4 ">Country</h2>
+          </div>
         </div>
 
         <section>
