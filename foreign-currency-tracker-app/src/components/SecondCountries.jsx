@@ -3,12 +3,13 @@ import swissFlag from "../images/swiss.png";
 import chinaFlag from "../images/china.png";
 import ukFlag from "../images/uk.png";
 import ausFlag from "../images/aus.jpg";
+
 function SecondCountries() {
   return (
     <>
       <main className="border-2 border-solid border-gray-200">
         <div className="title-container">
-          <div className=" bg-neutral-100 w-72  h-14  ">
+          <div className=" bg-neutral-100 w-80  h-14  ">
             <h2 className="  bg-neutral-100 w-32 h-14 font-bold pt-3 ml-4 ">Country</h2>
           </div>
         </div>
