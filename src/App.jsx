@@ -20,12 +20,15 @@ function App() {
           </p>
         </div>
       </div>
-      <div className="container flex flex-row  gap-10 mt-16 justify-center items-center opacity-90 ">
-        <div className="main-div flex flex-row gap ">
+      <div
+        className="container justify-center items-center gap-6 mt-16 opacity-90
+             grid lg:grid-cols-2   "
+      >
+        <div className="main-div flex flex-row gap-4 lg:w-1/2">
           <FirstCountries />
           <BuySellComponent currencies={currencies} title="Buy" />
         </div>
-        <div className="flex flex-row ">
+        <div className="flex flex-row gap-4 ">
           <SecondCountries />
           <BuySellComponent currencies={secondCurrencies} title="Buy" />
         </div>
