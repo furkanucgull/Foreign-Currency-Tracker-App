@@ -11,17 +11,17 @@ function App() {
   return (
     <>
       <div className="flex justify-center items-center flex-row ">
-        <div className="text-2xl font-serif flex flex-row mt-6">
+        <div className="text-2xl font-serif flex flex-row mt-5 ">
           <h2 className=" mr-2 text-white">
             Current Currency : <span className="font-roboto text-white">Euro</span>
           </h2>
-          <p className="text-lg mt-1.5 text-white">
+          <p className="text-lg mt-1 text-white">
             <FaEuroSign />
           </p>
         </div>
       </div>
       <div
-        className="container justify-center items-center gap-6 mt-16 opacity-90
+        className="container justify-center items-center gap-4 mt-16 opacity-90 ml-16
              grid lg:grid-cols-2   "
       >
         <div className="main-div flex flex-row gap-4 lg:w-1/2">

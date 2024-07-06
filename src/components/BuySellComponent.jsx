@@ -38,7 +38,7 @@ function BuySellComponent({ currencies, title }) {
         <p>Loading...</p>
       ) : (
         <>
-          <div className="title-container bg-neutral-100 opacity-90">
+          <div className="title-container bg-neutral-100 opacity-90  ">
             <div className="bg-neutral-100 w-24 h-12 ml-4 flex justify-center items-center">
               <h2 className="font-arial text-lg">{title} Rates</h2>
             </div>
@@ -46,7 +46,7 @@ function BuySellComponent({ currencies, title }) {
               {currencies.map(currency => (
                 <div
                   key={currency}
-                  className="flex justify-center items-center text-center mt-1 h-20 bg-gray-200 border-b-2  border-gray-300"
+                  className="flex justify-center items-center text-center mt-1 mr-3  h-20 bg-gray-200 border-b-2  border-gray-300 "
                 >
                   <p className="font-bold text-xl text-nowrap">{rates[currency]?.toFixed(3)}</p>
                 </div>
